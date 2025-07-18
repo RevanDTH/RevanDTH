@@ -22,6 +22,12 @@ Developer at a national transportation service provider.
 
 ---
 
+## 🔗 CodeWars
+  
+![CodeWars](https://www.codewars.com/users/RevanDTH/badges/large)
+
+---
+
 ## 🌍 Languages
 
 | Language    | Level         |
@@ -31,11 +37,6 @@ Developer at a national transportation service provider.
 | English     | C1            |
 | Russian     | A2 → C2 goal  |
 
----
-
-## 🔗 Online Profiles
-  
-- 🧠 Codewars: ![CodeWars](https://www.codewars.com/users/RevanDTH/badges/large)
 
 ---
 
