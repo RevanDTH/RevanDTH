@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm David Krammer
 
-<!--
-**RevanDTH/RevanDTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer at a national transportation service provider.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Focus
+
+- Linux & Windows Administration  
+- Docker & Containerization  
+- Python, PowerShell, Bash  
+- Monitoring & Logging (Grafana, ELK)  
+- Software Development (React, Unity C#)
+
+---
+
+## 🚀 Projects
+
+- **Operation: Aurora** – First-person game with custom physics & mission system  
+- **Gamified To-Do App** – Productivity tracker with XP and trophies (React)  
+- **DevOps Lab** – Docker-based environments with monitoring and systemd setup
+
+---
+
+## 🌍 Languages
+
+| Language    | Level         |
+|-------------|---------------|
+| German      | Native        |
+| Hungarian   | Native        |
+| English     | C1            |
+| Russian     | A2 → C2 goal  |
+
+---
+
+## 🔗 Online Profiles
+  
+- 🧠 Codewars: [CodeWars](https://www.codewars.com/users/RevanDTH/badges/large)
+
+---
+
+> _"Clean code. Real impact."_
