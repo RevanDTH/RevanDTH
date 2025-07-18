@@ -10,7 +10,7 @@ Developer at a national transportation service provider.
 - Docker & Containerization  
 - Python, PowerShell, Bash  
 - Monitoring & Logging (Grafana, ELK)  
-- Software Development (React, Unity C#)
+- Software Development (React, .NET)
 
 ---
 
@@ -35,7 +35,7 @@ Developer at a national transportation service provider.
 
 ## 🔗 Online Profiles
   
-- 🧠 Codewars: [CodeWars](https://www.codewars.com/users/RevanDTH/badges/large)
+- 🧠 Codewars: ![CodeWars](https://www.codewars.com/users/RevanDTH/badges/large)
 
 ---
 
