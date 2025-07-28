@@ -1,4 +1,4 @@
-# 👋 Hi, I'm David Krammer
+# 👋 Hi, I'm David
 
 Developer at a national transportation service provider.
 
