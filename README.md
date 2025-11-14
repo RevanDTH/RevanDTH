@@ -2,7 +2,6 @@
 
 Developer at a national transportation service provider.
 
----
 
 ## ⚙️ Tech Focus
 
@@ -12,7 +11,7 @@ Developer at a national transportation service provider.
 - Monitoring & Logging (Grafana, ELK)  
 - Software Development (React, .NET)
 
----
+
 
 ## 🔗 Stats
   
@@ -22,7 +21,7 @@ Developer at a national transportation service provider.
 
 ![RevanDTH's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevanDTH&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
----
+
 
 ## 🌍 Languages
 
