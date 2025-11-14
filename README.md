@@ -14,14 +14,6 @@ Developer at a national transportation service provider.
 
 ---
 
-## 🚀 Projects
-
-- **Operation: Aurora** – First-person game with custom physics & mission system  
-- **Gamified To-Do App** – Productivity tracker with XP and trophies (React)  
-- **DevOps Lab** – Docker-based environments with monitoring and systemd setup
-
----
-
 ## 🔗 CodeWars
   
 ![CodeWars](https://www.codewars.com/users/RevanDTH/badges/large)
@@ -35,7 +27,7 @@ Developer at a national transportation service provider.
 | German      | Native        |
 | Hungarian   | Native        |
 | English     | C1            |
-| Russian     | A2 → C2 goal  |
+| Russian     | A2            |
 
 
 ---
